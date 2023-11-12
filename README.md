@@ -1,2 +1,2 @@
 # Meal-Master
-Repository for the creation and deployment of the meal planning app
+Repository for the creation and committing of the User Interface documents for this application
